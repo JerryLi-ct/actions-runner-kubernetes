@@ -1,4 +1,4 @@
-name: master
+name: build action runner for k8s
 on:
   push:
     branches:
